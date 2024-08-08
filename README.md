@@ -2,7 +2,7 @@
 
 <p align="left">
   💻 Graduating in Systems Analysis and Development at UDF <br>
-  🔠 [C1 Advanced English Level](https://cert.efset.org/fZ46xL). <br>
+  🔠 <a href="https://cert.efset.org/fZ46xL" rel="nofollow">C1 Advanced English Level</a> <br>
   📚 Currently Studying Java and PHP.
 </p><br><br>
 
