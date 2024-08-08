@@ -1,8 +1,8 @@
 <h1 align="center">👋 Olá, eu sou Rafael Melo</h1>
 
-<p align="center">
-  💻 Graduating in Systems Analysis and Development at UDF |
-  🔠 [C1 Advanced English level](https://cert.efset.org/fZ46xL)
+<p align="left">
+  💻 Graduating in Systems Analysis and Development at UDF <br>
+  🔠 [C1 Advanced English level](https://cert.efset.org/fZ46xL) <br>
   📚 Currently Studying Java and PHP.
 </p><br><br>
 
