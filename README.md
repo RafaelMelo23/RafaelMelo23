@@ -15,6 +15,6 @@
 
 ## 📫 Get in touch
 
-[![Gmail Badge](https://img.shields.io/badge/-{rafaelmelodev223@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})](mailto:{SeuEmail})
+[![Gmail Badge](https://img.shields.io/badge/-{rafaelmelodev23@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})](mailto:{SeuEmail})
 [![Linkedin: Rafael](https://img.shields.io/badge/-rafaelmelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devellenias/)](https://www.linkedin.com/in/rafael-melo-souza/)
 <br><br>
