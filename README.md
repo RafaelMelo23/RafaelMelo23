@@ -8,7 +8,7 @@
 
 
 ## 🚀 Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)(https://skillicons.dev/icons?i=php)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=java)(https://skillicons.dev/icons?i=php)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Tools and Technologies
 [![My Skills](https://skillicons.dev/icons?i=idea,mysql,git,github)](https://skillicons.dev)<br><br>
