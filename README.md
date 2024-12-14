@@ -12,7 +12,7 @@
 
 
 ## 🛠️ Tools and Technologies
-[![My Skills](https://skillicons.dev/icons?i=idea,mysql,git,github,spring)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=idea,mysql,git,github,spring,postman)](https://skillicons.dev)<br><br>
 
 
 ## 📫 Get in touch
