@@ -1,6 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Rafael Melo</h1>
 
 <p align="left">
+  👨‍💻 Back-end software developer
   💻 Graduating in Systems Analysis and Development at <a href="https://www.udf.edu.br/" rel="nofollow">UDF</a> <br>
   🔠 <a href="https://cert.efset.org/fZ46xL" rel="nofollow">C1 Advanced English Level</a> <br>
   📚 Currently Studying Java and Spring Boot.
