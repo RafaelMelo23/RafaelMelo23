@@ -12,7 +12,7 @@
 
 
 ## 🚀 Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 
 ## 🛠️ Tools and Technologies
