@@ -4,7 +4,7 @@
   👨‍💻 Back-end software developer <br>
   💻 Graduating in Systems Analysis and Development at <a href="https://www.udf.edu.br/" rel="nofollow">UDF</a> <br>
   📖 Check out my <a href="https://rmeloportfolio.vercel.app" rel="nofollow">Portfolio!</a> <br>
-  🔠 <a href="https://cert.efset.org/fZ46xL" rel="nofollow">C1 Advanced English Level</a> <br>
+  🔠 <a href="https://cert.efset.org/fZ46xL" rel="nofollow">C2 Proficient English Level</a> <br>
   📚 Currently Studying Java and Spring Boot. <br>
   📲 I'm currently developing an E-commerce. Check it out on my <a href="https://linkedin.com/in/rafaelmelodev">LinkedIn!</a>
   
