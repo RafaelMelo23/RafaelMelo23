@@ -10,17 +10,12 @@
   
 </p><br><br>
 
+<h2 align="center"><strong>🚀 Tecnologias & Ferramentas</strong></h2>
 
-## 🚀 Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev" rel="nofollow">
+    <img src="https://skillicons.dev/icons?i=java,spring,idea,maven,docker,postgres,git,github,postman" alt="My Skills" />
+  </a>
+</p>
 
 
-## 🛠️ Tools and Technologies
-[![My Skills](https://skillicons.dev/icons?i=idea,mysql,git,github,spring,postman)](https://skillicons.dev)<br><br>
-
-
-## 📫 Get in touch
-
-[![Gmail Badge](https://img.shields.io/badge/-{rafaelmelodev23@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})](mailto:{SeuEmail})
-[![Linkedin: Rafael](https://img.shields.io/badge/-rafaelmelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devellenias/)](https://www.linkedin.com/in/rafael-melo-souza/)
-<br><br>
