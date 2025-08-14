@@ -1,9 +1,9 @@
 <p>👨‍💻 Back-end software developer</p>
-<p>🎓 Graduating in Systems Analysis and Development at [UDF](https://www.udf.edu.br/)</p>
-<p>📖 Check out my [Portfolio!](https://rmeloportfolio.vercel.app)</p>
-<p>🔠 [C2 Proficient English Level](https://cert.efset.org/fZ46xL)</p>
+<p>🎓 Graduating in Systems Analysis and Development at <a href="https://www.udf.edu.br/" target="_blank">UDF</a></p>
+<p>📖 Check out my <a href="https://rmeloportfolio.vercel.app" target="_blank">Portfolio!</a></p>
+<p>🔠 <a href="https://cert.efset.org/fZ46xL" target="_blank">C2 Proficient English Level</a></p>
 <p>📚 Currently studying Java and Spring Boot.</p>
-<p>📲 I'm currently developing an E-commerce. Check it out on my [LinkedIn!](https://linkedin.com/in/rafaelmelodev)</p>
+<p>📲 I'm currently developing an E-commerce. Check it out on my <a href="https://linkedin.com/in/rafaelmelodev" target="_blank">LinkedIn!</a></p>
 
 ---
 
