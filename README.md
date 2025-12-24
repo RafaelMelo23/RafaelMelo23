@@ -3,7 +3,6 @@
 <p>📖 Check out my <a href="https://rmeloportfolio.vercel.app" target="_blank">Portfolio!</a></p>
 <p>🔠 <a href="https://cert.efset.org/fZ46xL" target="_blank">C2 Proficient English Level</a></p>
 <p>📚 Currently studying Java and Spring Boot.</p>
-<p>📲 I'm currently developing an E-commerce. Check it out on my <a href="https://linkedin.com/in/rafaelmelodev" target="_blank">LinkedIn!</a></p>
 
 ---
 
